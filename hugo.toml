@@ -7,7 +7,7 @@ theme = "hugo-webstack"
 disablePathToLower = true
 
 #页脚：作者名字
-copyright = "afx"
+copyright = "cc"
 
 #网站信息，不显示，仅供搜索引擎参考
 [params]
