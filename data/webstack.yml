@@ -13,7 +13,7 @@
       description: 可以当盘用吧
     - title: 收款码？
       qrcode: images/qrcodes/shoukuanma.png
-      logo:  images/logos/c.png
+      logo: images/logos/c.png
       url: https://www.ccday.us.kg/
       description: 天降横财？
     
