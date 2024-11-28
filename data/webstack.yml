@@ -11,6 +11,11 @@
       logo: 
       url: https://t.me/
       description: 可以当盘用吧
+    - title: 收款码？
+      qrcode: images/qrcodes/bk.png
+      logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
+      url: https://www.ccday.us.kg/
+      description: 天降横财？
     
 
 - taxonomy: 社区咨询
